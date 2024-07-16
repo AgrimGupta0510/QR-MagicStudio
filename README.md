@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # QR MagicStudio
 
 QR MagicStudio is an npm package that allows you to generate QR codes with ease.
@@ -40,3 +41,7 @@ app.listen(port, () => {
 });
 ```
 
+=======
+# qr-magicstudio
+A NPM Package to generate QR Code and also provide its relative URL
+>>>>>>> c8d7b1d848e7d3d02b13864b5e2cab1d5b081871
