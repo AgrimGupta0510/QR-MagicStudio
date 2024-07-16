@@ -1,0 +1,21 @@
+{
+  "name": "qr-magicstudio",
+  "version": "1.0.0",
+  "description": "A npm package to generate QR Code and give its link address .",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "npm",
+    "qr-code",
+    "qr"
+  ],
+  "author": "Agrim Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",    
+    "qr-image": "^3.2.0"    
+  }
+}
